@@ -1,4 +1,4 @@
-project_euler
+Project Euler
 =============
 
 Project Euler solutions in various languages
